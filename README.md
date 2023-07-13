@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👀 About Me:
 👨‍💻I am trying to improve myself <br>in the field of front end web development. <br>At the same time, <br>🦾I develop my own projects and work with my friends.
 
 
